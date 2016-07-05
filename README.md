@@ -1,2 +1,2 @@
 # react-redux-dataset
-An opinionated paginated react table using the Redux implementation of the Flux Architecture using React Router for pagination
+An opinionated paginated react table using the Redux implementation of the Flux Architecture using React Router for pagination. This dataset is optimized for inline-editing using a variety of customizable and extendable columns. I have this working locally, but I'll be cleaning it up by Sep 2016. If you're at all interested in this, please reach out, I welcome all contributions!
